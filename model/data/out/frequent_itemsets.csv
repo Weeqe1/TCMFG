@@ -1,0 +1,100 @@
+itemsets,support
+"('Syzygium aromaticum',)",0.29
+"('Carthamus tinctorius',)",0.11
+"('Aquilaria sinensis',)",0.13
+"('borneol',)",0.51
+"('Santalum album',)",0.14
+"('Boswellia carteri',)",0.11
+"('Cyperus rotundus',)",0.08
+"('Acorus gramineus',)",0.14
+"('Gardenia jasminoides',)",0.11
+"('Scutellaria baicalensis',)",0.1
+"('Curcuma aromatica',)",0.11
+"('Coptis chinensis',)",0.09
+"('Mentha canadensis',)",0.53
+"('Asarum heterotropoides',)",0.13
+"('Citrus aurantium',)",0.1
+"('Wolfiporia cocos',)",0.08
+"('Angelica sinensis',)",0.12
+"('Angelica dahurica',)",0.08
+"('Aucklandia costus',)",0.22
+"('Pogostemon cablin',)",0.13
+"('Rheum officinale',)",0.17
+"('Atractylodes lancea',)",0.09
+"('Cinnamomum cassia',)",0.31
+"('camphor',)",0.29
+"('Methyl salicylate',)",0.18
+"('Eucalyptus oil',)",0.23
+"('Conioselinum anthriscoides',)",0.09
+"('Gastrodia elata',)",0.1
+"('Illicium verum',)",0.1
+"('Aquilaria sinensis', 'Syzygium aromaticum')",0.09
+"('Syzygium aromaticum', 'borneol')",0.13
+"('Santalum album', 'Syzygium aromaticum')",0.08
+"('Mentha canadensis', 'Syzygium aromaticum')",0.16
+"('Aucklandia costus', 'Syzygium aromaticum')",0.13
+"('Cinnamomum cassia', 'Syzygium aromaticum')",0.15
+"('Syzygium aromaticum', 'camphor')",0.1
+"('Eucalyptus oil', 'Syzygium aromaticum')",0.1
+"('Aquilaria sinensis', 'Aucklandia costus')",0.08
+"('Santalum album', 'borneol')",0.1
+"('Boswellia carteri', 'borneol')",0.08
+"('Gardenia jasminoides', 'borneol')",0.1
+"('Scutellaria baicalensis', 'borneol')",0.09
+"('Curcuma aromatica', 'borneol')",0.08
+"('Coptis chinensis', 'borneol')",0.08
+"('Mentha canadensis', 'borneol')",0.25
+"('Asarum heterotropoides', 'borneol')",0.08
+"('Aucklandia costus', 'borneol')",0.13
+"('Rheum officinale', 'borneol')",0.1
+"('Cinnamomum cassia', 'borneol')",0.13
+"('borneol', 'camphor')",0.09
+"('Aucklandia costus', 'Santalum album')",0.08
+"('Gardenia jasminoides', 'Scutellaria baicalensis')",0.08
+"('Asarum heterotropoides', 'Mentha canadensis')",0.09
+"('Citrus aurantium', 'Mentha canadensis')",0.09
+"('Aucklandia costus', 'Mentha canadensis')",0.11
+"('Mentha canadensis', 'Pogostemon cablin')",0.1
+"('Mentha canadensis', 'Rheum officinale')",0.09
+"('Cinnamomum cassia', 'Mentha canadensis')",0.23
+"('Mentha canadensis', 'camphor')",0.27
+"('Mentha canadensis', 'Methyl salicylate')",0.17
+"('Eucalyptus oil', 'Mentha canadensis')",0.22
+"('Illicium verum', 'Mentha canadensis')",0.08
+"('Asarum heterotropoides', 'Rheum officinale')",0.08
+"('Asarum heterotropoides', 'Cinnamomum cassia')",0.08
+"('Cinnamomum cassia', 'Citrus aurantium')",0.08
+"('Aucklandia costus', 'Pogostemon cablin')",0.09
+"('Aucklandia costus', 'Cinnamomum cassia')",0.08
+"('Cinnamomum cassia', 'Pogostemon cablin')",0.09
+"('Cinnamomum cassia', 'Rheum officinale')",0.08
+"('Cinnamomum cassia', 'camphor')",0.16
+"('Cinnamomum cassia', 'Methyl salicylate')",0.08
+"('Cinnamomum cassia', 'Eucalyptus oil')",0.13
+"('Cinnamomum cassia', 'Illicium verum')",0.08
+"('Methyl salicylate', 'camphor')",0.16
+"('Eucalyptus oil', 'camphor')",0.2
+"('Eucalyptus oil', 'Methyl salicylate')",0.13
+"('Cinnamomum cassia', 'Mentha canadensis', 'Syzygium aromaticum')",0.13
+"('Mentha canadensis', 'Syzygium aromaticum', 'camphor')",0.1
+"('Eucalyptus oil', 'Mentha canadensis', 'Syzygium aromaticum')",0.1
+"('Cinnamomum cassia', 'Syzygium aromaticum', 'camphor')",0.08
+"('Cinnamomum cassia', 'Eucalyptus oil', 'Syzygium aromaticum')",0.08
+"('Eucalyptus oil', 'Syzygium aromaticum', 'camphor')",0.08
+"('Gardenia jasminoides', 'Scutellaria baicalensis', 'borneol')",0.08
+"('Aucklandia costus', 'Mentha canadensis', 'borneol')",0.09
+"('Cinnamomum cassia', 'Mentha canadensis', 'borneol')",0.1
+"('Mentha canadensis', 'borneol', 'camphor')",0.08
+"('Cinnamomum cassia', 'Mentha canadensis', 'Pogostemon cablin')",0.08
+"('Cinnamomum cassia', 'Mentha canadensis', 'camphor')",0.14
+"('Cinnamomum cassia', 'Eucalyptus oil', 'Mentha canadensis')",0.12
+"('Mentha canadensis', 'Methyl salicylate', 'camphor')",0.15
+"('Eucalyptus oil', 'Mentha canadensis', 'camphor')",0.19
+"('Eucalyptus oil', 'Mentha canadensis', 'Methyl salicylate')",0.13
+"('Cinnamomum cassia', 'Eucalyptus oil', 'camphor')",0.1
+"('Eucalyptus oil', 'Methyl salicylate', 'camphor')",0.12
+"('Cinnamomum cassia', 'Mentha canadensis', 'Syzygium aromaticum', 'camphor')",0.08
+"('Cinnamomum cassia', 'Eucalyptus oil', 'Mentha canadensis', 'Syzygium aromaticum')",0.08
+"('Eucalyptus oil', 'Mentha canadensis', 'Syzygium aromaticum', 'camphor')",0.08
+"('Cinnamomum cassia', 'Eucalyptus oil', 'Mentha canadensis', 'camphor')",0.09
+"('Eucalyptus oil', 'Mentha canadensis', 'Methyl salicylate', 'camphor')",0.12
